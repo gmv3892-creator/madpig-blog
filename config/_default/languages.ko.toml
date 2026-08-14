@@ -1,0 +1,24 @@
+# -- Korean Language Settings --
+disabled = false
+locale = "ko-KR"
+label = "한국어"
+weight = 1
+title = "승범의 세상 이야기"
+dateFormat = "2006년 1월 2일"
+
+[params]
+  displayName = "KO"
+  isoCode = "ko"
+  rtl = false
+  # description = "일상과 테크, 중국 이야기를 나누는 공간"
+  # copyright = "© 승범"
+
+# [params.author]
+#   name = "홍승범"
+#   email = "youremail@example.com"
+#   image = "img/profile.jpg"
+#   headline = "세상을 살아가는 이야기"
+#   bio = "일상, 테크, 중국 이야기를 기록합니다"
+#   links = [
+#     { github = "https://github.com/username" },
+#   ]

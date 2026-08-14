@@ -1,0 +1,32 @@
+# -- 한국어 메인 메뉴 --
+
+[[main]]
+  name = "홈"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "글"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "일상"
+  pageRef = "categories/일상"
+  weight = 30
+
+[[main]]
+  name = "테크"
+  pageRef = "categories/테크"
+  weight = 40
+
+[[main]]
+  name = "중국 이야기"
+  pageRef = "categories/중국-이야기"
+  weight = 50
+
+# -- 푸터 메뉴 --
+# [[footer]]
+#   name = "태그"
+#   pageRef = "tags"
+#   weight = 10
