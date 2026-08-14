@@ -19,6 +19,3 @@ dateFormat = "2006년 1월 2일"
   # image = "img/profile.jpg"
   headline = "일상과 테크, 중국 이야기를 담는 공간"
   bio = "세상 사는 이야기를 기록합니다"
-  links = [
-    { github = "https://github.com/gmv3892-creator" },
-  ]
