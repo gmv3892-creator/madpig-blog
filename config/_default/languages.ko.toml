@@ -13,12 +13,12 @@ dateFormat = "2006년 1월 2일"
   # description = "일상과 테크, 중국 이야기를 나누는 공간"
   # copyright = "© 승범"
 
-# [params.author]
-#   name = "홍승범"
-#   email = "youremail@example.com"
-#   image = "img/profile.jpg"
-#   headline = "세상을 살아가는 이야기"
-#   bio = "일상, 테크, 중국 이야기를 기록합니다"
-#   links = [
-#     { github = "https://github.com/username" },
-#   ]
+[params.author]
+  name = "홍승범"
+  # email = "youremail@example.com"
+  # image = "img/profile.jpg"
+  headline = "일상과 테크, 중국 이야기를 담는 공간"
+  bio = "세상 사는 이야기를 기록합니다"
+  links = [
+    { github = "https://github.com/gmv3892-creator" },
+  ]
